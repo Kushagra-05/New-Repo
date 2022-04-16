@@ -1,0 +1,8 @@
+* 4f7ca35
+* b9470a8
+*  Hash: 4f7ca35 Date: 41 minutes ago
+|  Message: added a newfile 
+*  Hash: b9470a8 Date: 4 hours ago
+   Message: alpha 
+* 4f7ca35 (HEAD -> main, origin/newbr, origin/main, newbr) added a newfile
+* b9470a8 (newbr2) alpha
